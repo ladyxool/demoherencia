@@ -42,7 +42,7 @@ public class Cliente {
    public void  setdireccion(String direccion){
        this.direccion = direccion;  
    }
-   public String fetdireccion(){
+   public String getdireccion(){
        return direccion;
    }
      public void setocupacion(String ocupacion){
